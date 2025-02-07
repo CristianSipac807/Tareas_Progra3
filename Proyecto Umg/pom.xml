@@ -45,6 +45,5 @@
             </executions>
         </plugin>
     </plugins>
-</build>
-    <name>Proyecto UMG</name>
+</build>    
 </project>
